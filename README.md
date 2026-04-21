@@ -16,11 +16,15 @@ sync, contribution analytics, GDPR-compliant data layer. Freemium, live.
 ## Working with
 
 **My stack:** Java, Spring Boot — this is where I'm fluent.
+
 **Learning:** Python.
+
 **Full-stack projects:** JavaScript/TypeScript, shipped in pair
 programming with Claude Code (Claude handles frontend, I handle
 backend architecture).
+
 **Infrastructure:** OCI, Nginx, PostgreSQL, Redis, Docker
+
 **AI stack:** Claude Code, Anthropic API, LLM application development
 
 ## Pinned work
