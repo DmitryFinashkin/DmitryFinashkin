@@ -30,7 +30,7 @@ backend architecture).
 ## Pinned work
 
 See pinned repositories below. Highlights include my latest Spring AI
-starter — an example of integrating the Anthropic API into production
+starter — an example of integrating the AI API into production
 Java applications — alongside selected backend projects.
 
 Most of my AI-integrated work currently lives in private DevArc repos.
