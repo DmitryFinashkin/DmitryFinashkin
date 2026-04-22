@@ -9,9 +9,7 @@ Building and shipping AI-integrated software the rest of the time.
 Estonia, Latvia, and Lithuania. Blog, webinars, and guides focused on
 what actually works for Baltic professionals. Making AI practical.
 
-🏗 **[DevArc](https://devarc.dev)** — a developer analytics SaaS built in
-pair programming with Claude Code. GitHub OAuth, webhook-driven activity
-sync, contribution analytics, GDPR-compliant data layer. Freemium, live.
+🏗 **[DevArc](https://devarc.dev)** — DevArc — a developer analytics SaaS built in pair programming with Claude Code. Combines webhook-driven GitHub activity sync with a journaling layer to surface velocity, focus, learning, and impact trends — complete with achievements, XP, personal bests, and weekly reports. Stripe-billed freemium, GitHub OAuth sign-in, GDPR-compliant, live at https://devarc.dev.  
 
 ## Working with
 
