@@ -1,58 +1,35 @@
-# Hi, I'm Dmitry 👋
+## Dmitry Finashkin
 
-Senior Software Engineer based in Riga, Latvia. Java/Spring Boot by day.
-Building and shipping AI-integrated software the rest of the time.
+Senior Software Engineer in Riga, Latvia.
+Java/Spring AI by day, AI engineering content the rest of the time.
 
-## What I'm building
+### What I'm doing
 
-🎙 **[AI Baltics](https://aibaltics.com)** — a practical AI community for
-Estonia, Latvia, and Lithuania. Blog, webinars, and guides focused on
-what actually works for Baltic professionals. Making AI practical.
+Building production AI features with Spring AI in Java. Currently working as a Senior REST API Engineer, with most of my AI engineering work happening in evenings and weekends — Spring AI, local model inference, RAG patterns, and the architectural decisions around them.
 
-🏗 **[DevArc](https://devarc.dev)** — a developer analytics SaaS built in
-pair programming with Claude Code. Webhook-driven GitHub activity sync
-plus a journaling layer to surface velocity, focus, learning, and impact
-trends — with achievements, XP, personal bests, and weekly reports.
-Stripe-billed freemium, GitHub OAuth sign-in, GDPR-compliant. Live.
+Publishing what I learn on YouTube as **[@FinashkinDmitry](https://www.youtube.com/@FinashkinDmitry)** — new explainers Tuesdays, tutorials Fridays.
 
-## Working with
+### Stack
 
-**My stack:** Java, Spring Boot — this is where I'm fluent.
+- **Primary:** Java, Spring Boot, Spring AI, PostgreSQL
+- **Learning:** Python (PyTorch, FastAPI, the AI Python ecosystem)
+- **AI:** Spring AI, LM Studio, local model inference (Gemma, Llama), Anthropic Claude, OpenAI
+- **Infrastructure:** Docker, Nginx, OCI, Redis
 
-**Learning:** Python.
+### Featured repos
 
-**Full-stack projects:** JavaScript/TypeScript, shipped in pair
-programming with Claude Code (Claude handles frontend, I handle
-backend architecture).
+- **[spring-ai](https://github.com/DmitryFinashkin/spring-ai)** — Spring AI examples covering chat memory, structured output, tool calling, and provider switching (OpenAI ↔ Anthropic ↔ local). Companion code for my YouTube Spring AI series.
+- **[simple-telegram-bot](https://github.com/DmitryFinashkin/simple-telegram-bot)** — Spring Boot Telegram bot reference implementation. 40+ stars, 30+ forks.
 
-**Infrastructure:** OCI, Nginx, PostgreSQL, Redis, Docker
+### On the horizon
 
-**AI stack:** Claude Code, Anthropic API, LLM application development
+- Continuing the Spring AI series — RAG implementations, agent patterns, multi-model architectures
+- Python content starting July 2026 — comparative AI engineering from a senior Java developer's perspective
+- More production-focused AI tutorials and architecture deep-dives
 
-## Pinned work
+### Connect
 
-See pinned repositories below. Highlights include my latest Spring AI
-starter — an example of integrating the AI API into production
-Java applications — alongside selected backend projects.
-
-Most of my AI-integrated work currently lives in private DevArc repos.
-Open-source Claude-integrated tooling for Baltic businesses shipping
-through 2026.
-
-## On the horizon
-
-- Open-source Claude-integrated tooling for Baltic businesses
-  (EU AI Act compliance helpers, disclosure generators, etc.) —
-  shipping through 2026
-- More technical posts on [aibaltics.com](https://aibaltics.com) about
-  building with Claude Code from a working developer's perspective
-- Spring AI tutorials and deep-dives for Java developers entering
-  the AI space
-
-## Connect
-
-- 🌐 Website: [aibaltics.com](https://aibaltics.com)
-- 💼 LinkedIn: [dmitrijs-finaskins](www.linkedin.com/in/dmitrijs-finaskins-a69598a5)
-- 🐦 X: [@aibaltics](https://x.com/aibaltics)
-- 💌 Email: dmitrijs@aibaltics.com
-- 📍 Riga, Latvia
+- YouTube: [@FinashkinDmitry](https://www.youtube.com/@FinashkinDmitry)
+- LinkedIn: [dmitrijs-finaskins](https://www.linkedin.com/in/dmitrijs-finaskins-a69598a5)
+- Email: dmitry@finashkin.ai
+- Consulting & speaking inquiries welcome
