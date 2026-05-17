@@ -1,4 +1,4 @@
-# Hi, I'm Dmitrijs 👋
+# Hi, I'm Dmitry 👋
 
 Senior Software Engineer based in Riga, Latvia. Java/Spring Boot by day.
 Building and shipping AI-integrated software the rest of the time.
