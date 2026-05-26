@@ -30,6 +30,7 @@ Publishing what I learn on YouTube as **[@FinashkinDmitry](https://www.youtube.c
 ### Connect
 
 - YouTube: [@FinashkinDmitry](https://www.youtube.com/@FinashkinDmitry)
-- LinkedIn: [dmitrijs-finaskins](https://www.linkedin.com/in/dmitrijs-finaskins-a69598a5)
-- Email: dmitry@finashkin.ai
+- LinkedIn: [dmitrijs-finaskins](www.linkedin.com/in/dmitryfinashkin)
+- Consulting & speaking: dmitry@finashkin.ai
+- Sponsorships: partnerships@finashkin.ai
 - Consulting & speaking inquiries welcome
